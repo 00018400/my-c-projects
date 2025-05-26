@@ -1,6 +1,5 @@
 #include <stdio.h>
-#include <ctype.h>
-#include <math.h>
+#include <ctype.h> // Для функции toupper — перевод символа в верхний регистр
 
 int main()
 {
